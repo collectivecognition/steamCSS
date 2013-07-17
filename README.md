@@ -1,7 +1,7 @@
 steamCSS
 ========
 
-A recreation of Valve's Steam UI from scratch in pure CSS. Created in an afternoon as an exercise to learn (less)[http://lesscss.org/]. Hand coded using only a screenshot of the site, it's not meant to be feature complete; more an experiment to learn, practice and test out some new techniques.
+A recreation of Valve's Steam UI from scratch in pure CSS. Created in an afternoon as an exercise to learn [less](http://lesscss.org/). Hand coded using only a screenshot of the site, it's not meant to be feature complete; more an experiment to learn, practice and test out some new techniques.
 
 Features include:
 
@@ -10,4 +10,4 @@ Features include:
 * No javascript used for dropdown menus
 * Javascript-free image gallery uses a novel technique involving radio-buttons
 
-You can view a demo (here)[http://collectivecognition.github.io/steamCSS]
+You can view a demo [here](http://collectivecognition.github.io/steamCSS)
