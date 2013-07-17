@@ -6,4 +6,4 @@ Apps, code and creative commons licensed images used in this project:
 * [Paulo Brockmann](https://secure.flickr.com/photos/29039641@N02/) - placeholder images
 * [David Wilkinson](http://dopiaza.org/tools/datauri/index.php) - data:uri generator
 
-Thanks to (Steam)[http://steampowered.com] and (Valve)[http://valvesoftware.com] in general for being awesome!
+Thanks to [Steam](http://steampowered.com) and [Valve](http://valvesoftware.com) in general for being awesome!
